@@ -1,0 +1,4 @@
+please/VB play/VB some/DT music/NN
+please/VB tell/VB me/PRP the/DT time/NN
+what/WP time/NN is/VBZ it/PRP ?/.
+please/VB turn/VB on/IN the/DT lights/NN

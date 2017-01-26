@@ -1,6 +1,0 @@
-Please/NN play/JJ some/IN music/FOO
-Please/NN play/NN music/FOO
-Play/NN music/FOO
-Play/NN some/NN music/FOO
-Please/NN tell/VB me/PRP the/DT time/NN
-What/WP time/NN it/PRP is/VBZ ?/.
