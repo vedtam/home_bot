@@ -8,7 +8,9 @@ While learning about ML and NLP I have created a little starter project, a Bot f
 
 To learn more about this NLTK check this book/guide: [NLTK Guide](http://www.nltk.org/book)
 
-### You are welcome to contribute and move the Home Bot further
+### You are welcome to contribute and move the Home Bot project further
+
+#
 
 ### Functions this bot does
 
