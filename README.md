@@ -2,7 +2,7 @@
 
 ### About this project
 
-While learning about ML and NLP and I have created a little starter project, a Bot for IoT applications, using NLTK (natural language toolkit).
+While learning about ML and NLP I have created a little starter project, a Bot for IoT applications, using NLTK (natural language toolkit).
 
 ### To learn about NLP techniques and NLTK
 
